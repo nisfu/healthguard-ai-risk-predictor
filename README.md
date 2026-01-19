@@ -11,7 +11,7 @@ By providing an intuitive interface for health data entry, this application demo
 ---
 
 ## 🚀 Live Demo
-### 🔗 [Click Here to Access the Live Application](MASUKKAN_LINK_DEMO_KAMU)
+### 🔗 [Click Here to Access the Live Application](https://healthguard-ai-risk-predictor.streamlit.app/)
 
 ---
 
